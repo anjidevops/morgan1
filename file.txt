@@ -1,0 +1,6 @@
+we used maven which is maven and create te job
+and then we have to cinfugure the job with all particulars
+and we will set up the time period like build periodclly
+and poll scm which based on the situation ans based on directions
+once build sucess it will give one war file or jar
+after getting the artifact we will bring te fie to qa environ ment 
